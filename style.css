@@ -1,0 +1,43 @@
+.container{
+    text-align: center;
+    background-color: rgb(104, 0, 69);
+    margin-top: 120px;
+    height: 70vh;
+    width: 30%;
+    margin-left: 470px;
+    border-radius: 30%;
+    box-shadow: 0 0 20px rgb(58, 53, 57)
+}
+
+.userInput{
+    margin-top: 70px;
+    width: 300px;
+    height: 90px;
+    border-radius: 10px;
+    outline: none;
+    border-style: none;
+    font-size: 60px;
+    padding-left: 20px;
+}
+
+
+.reset{
+    margin-left: 200px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border-style: none;
+    outline: none;
+    box-shadow: 0 0 20px rgb(7, 1, 6)
+    
+}
+
+
+.count{
+   outline: none;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border-style: none;
+    box-shadow: 0 0 20px rgb(7, 1, 6);
+}
